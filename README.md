@@ -1,1 +1,1 @@
-# VITyarthi
+# VITyarthiinstructions
