@@ -1,1 +1,39 @@
-#....
+Small Maps
+
+Stratergies    Energy    Time 
+!. bfs          992        8
+2. ucs          992        8
+3. astar        992        8
+4. hillclimb    992        8
+5. simanneal    996        4 
+
+
+
+Medium Maps 
+
+Stratergies   Energy     Time 
+1. bfs         956        44
+2. ucs         956        44
+3. astar       956        44
+4. hillclimb   948        52
+5. simanneal   999        1
+
+
+
+Large Maps 
+
+Stratergies   Energy    Time 
+1. bfs         998        2
+2. ucs         998        2
+3. astar       998        2
+4. hillclimb   998        2
+5. simanneal   964       36
+
+
+
+Dynamic Maps   Energy    Time 
+1. bfs           986       14
+2. ucs           986       14
+3. astar         986       14
+4. hillclimb     984       16
+5. simanneal     998        2
